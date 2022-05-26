@@ -12,6 +12,7 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   geolocator: ^8.2.1
+  bot_toast: ^4.0.2
 
 dev_dependencies:
   flutter_test:
