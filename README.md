@@ -1,5 +1,5 @@
 # geolocator_stream_sample
-[geolocator](https://pub.dev/packages/geolocator/example)を使用した位置情報のリアルタイム受信を実装しました。
+[geolocator](https://pub.dev/packages/geolocator)を使用した位置情報のリアルタイム受信を実装しました。
 
 # 実装結果
 ## Android
